@@ -1,0 +1,25 @@
+{
+  "name": "calcul8r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffeliperc/calcul8r.git"
+  },
+  "keywords": [
+    "calcul8r",
+    "calculadora",
+    "suma",
+    "matematicas"
+  ],
+  "author": "Felipe Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffeliperc/calcul8r/issues"
+  },
+  "homepage": "https://github.com/ffeliperc/calcul8r#readme"
+}
